@@ -10,3 +10,18 @@
 .edu-margin {
     margin-top: 10rem !important;
 }
+
+.edu-course-img {
+    width: 200px;
+    height: 200px;
+}
+
+
+
+@media (max-width:768px) {
+    .edu-carousel-text {
+        margin-top: 10rem !important;
+        margin-bottom: 10rem !important;
+        padding-top: 10rem !important;
+    }
+}
