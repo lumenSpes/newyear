@@ -1,5 +1,8 @@
 /* carousel styling */
 .edu-carousel-text {
-    text-align: center;
+    bottom: 10rem !important;
+}
 
+.edu-courasol-heading {
+    font-size: 65px;
 }
