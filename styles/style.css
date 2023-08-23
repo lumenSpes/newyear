@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -193,4 +194,32 @@ footer {
 .btn-sub{
     background-color: #005FAC;
     color: #FFFFFF;
+=======
+/* carousel styling */
+.edu-carousel-text {
+    bottom: 10rem !important;
+}
+
+.edu-courasol-heading {
+    font-size: 65px;
+}
+
+.edu-margin {
+    margin-top: 10rem !important;
+}
+
+.edu-course-img {
+    width: 200px;
+    height: 200px;
+}
+
+
+
+@media (max-width:768px) {
+    .edu-carousel-text {
+        margin-top: 10rem !important;
+        margin-bottom: 10rem !important;
+        padding-top: 10rem !important;
+    }
+>>>>>>> eduX/main
 }
